@@ -1,0 +1,14 @@
+services:
+  jekyll:
+    build: 
+      context: tools
+      target: jekyll
+    profiles:
+      - donotstart
+  jekyll-serve:
+    build: 
+      context: tools
+    volumes:
+      - ./site:/site
+    ports:
+      - '4000:4000'
