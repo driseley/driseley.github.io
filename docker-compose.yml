@@ -9,6 +9,6 @@ services:
     build: 
       context: tools
     volumes:
-      - ./site:/site
+      - ./docs:/site
     ports:
       - '4000:4000'
