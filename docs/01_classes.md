@@ -10,7 +10,7 @@ Our Sunday sessions are for brown belts and black belts. Everyone has a say in w
 
 We train at Milford School, Church Road, Milford GU8 5JA.
 
-Everyone is welcome at Heiwa regardless of experience. We also cater for people with additional needs. If you would like a free trial, email us at <info@heiwa.org.uk>.
+Everyone is welcome at Heiwa regardless of experience. We also cater for people with additional needs. If you would like a free trial, email us at <info@heiwamilford.org.uk>.
 
 ## Tuesday training times
 
