@@ -6,7 +6,7 @@ layout: home
 ---
 ![logo] 
 
-Heiwa is a friendly Shotokan karate club in Milford, Surrey. We train at Milford School and welcome all students from the age of 6. 
+Heiwa is a friendly Shotokan karate club in Milford, Surrey. We train at Milford School and welcome all students from the age of 6.
 
 We are part of [SKKIF (Shotokan Karate Kanazawa-Ryu International Federation)](https://skkif.org.uk). We teach traditional karate, following the teachings of [Hirokazu Kanazawa Soke](https://www.skifworld.com/Hirokazu-Kanazawa.php), who was a student of the founder of the Shotokan style, Gichin Funakoshi.
 
