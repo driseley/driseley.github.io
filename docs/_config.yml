@@ -24,11 +24,13 @@ author:
   email: info@heiwamilford.org.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Martial arts club in Milford, England
-domain: driseley.github.io
+domain: heiwamilford.org.uk
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://driseley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://heiwamilford.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+google_site_verification: tgxkd9cT2uwAQZzEnnP2UdY-nyTg2IwlDbzNbH0oGmI
+locale: en_GB
 markdown: kramdown
 
 # Build settings
