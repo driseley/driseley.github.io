@@ -1,6 +1,6 @@
 # Matches the Ruby version used by actions/jekyll-build-pages, which builds the
 # deployed site. Keep these in step so local preview matches production.
-FROM ruby:3.3-slim-bookworm AS jekyll
+FROM ruby:4.0-slim-bookworm AS jekyll
 
 RUN apt-get update && \
     apt-get upgrade -y && \
