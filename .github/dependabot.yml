@@ -1,0 +1,20 @@
+version: 2
+updates:
+  # Ruby dependencies for the Jekyll site. Note that GitHub Pages deploys via
+  # actions/jekyll-build-pages, which uses its own gem set, so these updates
+  # affect local preview only.
+  - package-ecosystem: bundler
+    directory: /docs
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+
+  - package-ecosystem: docker
+    directory: /tools
+    schedule:
+      interval: weekly
